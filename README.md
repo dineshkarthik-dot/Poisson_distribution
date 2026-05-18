@@ -81,7 +81,8 @@ else:
 
 # Output : 
 <img width="871" height="468" alt="image" src="https://github.com/user-attachments/assets/704dcb29-3924-447f-8107-70c8c6fd8289" />
-
+#source:
+https://github.com/dineshkarthik-dot/Poisson_distribution
 
 
 # Results
